@@ -1,7 +1,6 @@
 ## Introduction
 
-Google My Maps allows you to export a map as a KML file, but without including images, `mykml` fixes this. `mykml` exports images as [data URLs](https://developer.mozilla.org/en-US/docs/Web/URI/Schemes/data) in hte KML file, this format is compatible with [umap](https://umap-project.org/) and allows for portability
-An exporter and converter from Google My Maps format to KML with support for images.
+Google My Maps allows you to export a map as a KML file, but without including images, `mykml` fixes this. `mykml` exports images as [data URLs](https://developer.mozilla.org/en-US/docs/Web/URI/Schemes/data) in the KML file, this format is compatible with [umap](https://umap-project.org/) and allows for portability.
 
 ## Usage
 
